@@ -25,11 +25,17 @@
   
 # **Structure Folder**
 `src/api` : Used to store API architecture<br>
+
 `src/components` : Used to store reusable components<br>
+
 `src/layouts` : Used to store layout/master components of the application<br>
+
 `src/pages` : Used to save files for web application pages<br>
+
 `src/styles` : Used to store styling files, e.g. sass dan css<br>
+
 `src/test` : Used to save the react application test files<br>
+
 `src/utils` : Used to store custom code for application support<br>
 
 <br/>
