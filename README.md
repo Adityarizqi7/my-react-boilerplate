@@ -7,34 +7,22 @@
 - [React JS](https://create-react-app.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [SASS - CSS Preprosesor](https://sass-lang.com/)
-  
-<br/>
-
 
 # **Installation**
 - ## Clone The Repository:
-  <br/>
-
   - ### Using Github CLI :
   ```bash
     gh repo clone Adityarizqi7/my-react-boilerplate
   ```
-   <br/>
-  
   - ### Manual Command :
   ```bash
     git clone https://github.com/Adityarizqi7/my-react-boilerplate.git
   ```
-  <br/>
 - ## Install all packages listed in `package.json` with Yarn
-  <br/>
-  
   ```bash
     yarn install or yarn
   ```
-
-<br/>
-
+  
 # **Structure Folder**
 `src/api` : Used to store API architecture<br>
 `src/components` : Used to store reusable components<br>
@@ -45,8 +33,5 @@
 `src/utils` : Used to store custom code for application support<br>
 
 <br/>
-<br/>
-
-
 
 ### **Hopefully it can be useful for you and happy hacking. This project was created by [Aditya Rizqi Ardhana](https://adityara.netlify.app) and [My Github](https://github.com/Adityarizqi7).**
